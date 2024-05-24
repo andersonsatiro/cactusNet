@@ -1,0 +1,5 @@
+# @name find-many-clients
+GET http://localhost:3333/findManyCliente
+
+# @name get-all-collaborators
+
