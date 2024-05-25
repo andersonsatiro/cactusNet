@@ -1,6 +1,6 @@
-import { Button } from '../ui/button'
-import { Separator } from '../ui/separator'
 import { House, Users, CurrencyCircleDollar, Database  } from "@phosphor-icons/react";
+import { Separator } from "./ui/separator";
+import { Button } from "./ui/button";
 
 export function Aside() {
   return(

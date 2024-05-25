@@ -16,7 +16,7 @@ export function GeneralDataCard({title, icon: Icon, text, paragraph}: CardProps)
         <Icon size={20} className="text-slate-700" />
       </div>
 
-      <h2 className="text-3xl font-bold inline">{text}</h2>
+      <h2 className="text-2xl font-bold inline">{text}</h2>
       <CardDescription className="">{paragraph}</CardDescription>
     </Card>
   )
