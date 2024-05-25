@@ -5,14 +5,13 @@ import { House, Users, CurrencyCircleDollar, Database  } from "@phosphor-icons/r
 export function Aside() {
   return(
     <aside className='w-[12%] border-r-solid border-r-[1px] border-r-border'>
-
       <h1 className='w-full text-center py-3 text-lg'>
         cactus<strong>NET</strong>
       </h1>
 
       <Separator />
 
-      <div className='flex flex-col p-3 gap-2 mt-5'>
+      <nav className='flex flex-col p-3 gap-2 mt-5'>
         <Button variant={'outline'} className='flex gap-1'>
           <House size={16} />
           Home
@@ -32,9 +31,7 @@ export function Aside() {
           <Database  size={16} />
           Consumo
         </Button>
-
-      </div>
-
+      </nav>
     </aside>
   )
 }
