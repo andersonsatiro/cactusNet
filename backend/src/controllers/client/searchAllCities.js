@@ -6,7 +6,7 @@ module.exports = {
     try {
       const cities = await searchAllCities.execute();
 
-      logger.info("successfully found clients");
+      logger.info("successfully found cities");
       res.status(200).json(cities);
     } catch (error) {
       if (!error.path) {

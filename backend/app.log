@@ -92,3 +92,56 @@
 26/05/2024 06:52:14.176 [[32minfo[39m]: successfully found clients
 26/05/2024 06:54:01.397 [[32minfo[39m]: successfully found clients
 26/05/2024 07:00:58.385 [[31merror[39m]: path: src/models/searchAllCities.js message: Assignment to constant variable.
+26/05/2024 07:02:15.714 [[32minfo[39m]: successfully found clients
+26/05/2024 07:18:00.565 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:19:11.729 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:23:39.452 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:23:46.659 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:25:29.954 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:26:23.126 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:31:08.972 [[31merror[39m]: path: src/models/findManyClientes.js message: clientes is not defined
+26/05/2024 07:32:14.431 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:32:22.243 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:33:56.912 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:34:28.682 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:34:43.248 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:34:52.739 [[32minfo[39m]: successfully found cities
+26/05/2024 07:34:55.708 [[32minfo[39m]: connectivity found successfully
+26/05/2024 07:49:04.943 [[32minfo[39m]: internet status found successfully
+26/05/2024 07:49:04.945 [[31merror[39m]: path: src/controllers/client/cityInternetStatus.js message: Converting circular structure to JSON
+    --> starting at object with constructor 'Socket'
+    |     property 'parser' -> object with constructor 'HTTPParser'
+    --- property 'socket' closes the circle
+26/05/2024 07:50:23.892 [[32minfo[39m]: internet status found successfully
+26/05/2024 07:51:22.492 [[32minfo[39m]: internet status found successfully
+26/05/2024 07:55:15.364 [[32minfo[39m]: internet status found successfully
+26/05/2024 07:57:21.106 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:03:08.696 [[31merror[39m]: path: src/models/cityInternetStatus.js message: city is not defined
+26/05/2024 08:04:42.137 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:04:42.140 [[31merror[39m]: path: src/controllers/client/cityInternetStatus.js message: Do not know how to serialize a BigInt
+26/05/2024 08:05:45.851 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:11:55.620 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:12:40.024 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:12:43.234 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:13:22.834 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:13:24.123 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:13:24.868 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:13:27.960 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:16:05.364 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:16:44.167 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:18:27.061 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:18:28.927 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:18:29.573 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:20:22.470 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:20:53.503 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:23:01.159 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:24:42.076 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:27:12.064 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:27:14.674 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:28:19.159 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:29:18.637 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:30:22.897 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:32:39.065 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:33:14.379 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:34:00.130 [[32minfo[39m]: internet status found successfully
+26/05/2024 08:35:09.674 [[32minfo[39m]: internet status found successfully

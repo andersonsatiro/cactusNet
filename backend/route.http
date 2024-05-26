@@ -6,3 +6,9 @@ GET http://localhost:3333/findManyCliente
 # @name search-all-cities
 GET http://localhost:3333/searchAllCities
 
+###
+
+# @name calculate-connectivity
+GET http://localhost:3333/cityInternetStatus/LINHARES
+
+
