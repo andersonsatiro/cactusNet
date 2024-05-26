@@ -68,3 +68,27 @@
 09/05/2024 19:11:17.413 [[32minfo[39m]: successfully found clients
 09/05/2024 19:12:22.985 [[32minfo[39m]: successfully found clients
 23/05/2024 19:46:08.683 [[32minfo[39m]: successfully found clients
+24/05/2024 18:07:01.355 [[32minfo[39m]: successfully found clients
+25/05/2024 20:53:49.479 [[32minfo[39m]: successfully found clients
+25/05/2024 21:11:26.711 [[32minfo[39m]: successfully found clients
+25/05/2024 21:11:42.968 [[32minfo[39m]: successfully found clients
+25/05/2024 21:13:09.080 [[32minfo[39m]: successfully found clients
+25/05/2024 21:14:25.073 [[32minfo[39m]: successfully found clients
+25/05/2024 21:14:30.006 [[32minfo[39m]: successfully found clients
+25/05/2024 21:14:57.056 [[32minfo[39m]: successfully found clients
+25/05/2024 21:15:01.393 [[32minfo[39m]: successfully found clients
+25/05/2024 21:15:12.461 [[32minfo[39m]: successfully found clients
+25/05/2024 21:15:34.163 [[32minfo[39m]: successfully found clients
+25/05/2024 21:15:50.847 [[32minfo[39m]: successfully found clients
+25/05/2024 21:16:39.397 [[32minfo[39m]: successfully found clients
+25/05/2024 21:16:52.792 [[32minfo[39m]: successfully found clients
+25/05/2024 21:17:05.719 [[32minfo[39m]: successfully found clients
+25/05/2024 21:17:05.721 [[31merror[39m]: path: src/controllers/client/searchAllCitiesController.js message: Do not know how to serialize a BigInt
+25/05/2024 21:17:57.719 [[32minfo[39m]: successfully found clients
+25/05/2024 21:20:16.790 [[32minfo[39m]: successfully found clients
+25/05/2024 21:21:22.331 [[32minfo[39m]: successfully found clients
+25/05/2024 21:24:47.319 [[32minfo[39m]: successfully found clients
+26/05/2024 06:45:45.211 [[32minfo[39m]: successfully found clients
+26/05/2024 06:52:14.176 [[32minfo[39m]: successfully found clients
+26/05/2024 06:54:01.397 [[32minfo[39m]: successfully found clients
+26/05/2024 07:00:58.385 [[31merror[39m]: path: src/models/searchAllCities.js message: Assignment to constant variable.
