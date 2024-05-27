@@ -17,6 +17,10 @@ module.exports = {
         internetStatus[client.statusInternet] += 1
       })
 
+      internetStatus = JSON.stringify(internetStatus, (key, value) =>
+        typeof value === "bigint" ? value.toString() : value
+      );
+
       return internetStatus;
     } catch (error) {
       error.path = "src/models/cityInternetStatus.js";

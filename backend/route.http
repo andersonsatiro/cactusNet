@@ -8,7 +8,7 @@ GET http://localhost:3333/searchAllCities
 
 ###
 
-# @name calculate-connectivity
+# @name city-internet-status
 GET http://localhost:3333/cityInternetStatus/LINHARES
 
 
