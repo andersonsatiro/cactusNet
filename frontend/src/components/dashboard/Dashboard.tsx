@@ -1,18 +1,36 @@
-import { ChartPieSlice, City } from "@phosphor-icons/react";
-import { ChartBox } from "./components/ChartBox";
+import { ChartPieSlice, City, GithubLogo, LinkedinLogo } from "@phosphor-icons/react";
 import { GeneralDataCard } from "./components/GeneralDataCard";
 import { Divide } from "lucide-react";
+import { ChartTabs } from "./components/ChartTabs";
+
+
 
 export function Dashboard(){
   return(
     <>
-      <h1 className='text-3xl font-bold leading-none tracking-tight'>Dashboard</h1>
+      <header className="flex items-center justify-end w-full h-16 px-10 border-b-[1px] border-b-border">
 
-      <div>
-        <ChartBox />
+        <nav className="flex gap-3">
+          <a href="https://www.linkedin.com/in/anderson-paiva-97a607235/" target="_blank">
+            <div className="bg-blue-600 rounded-full p-2 hover:bg-blue-500">
+              <LinkedinLogo weight="fill" className="text-xl text-white" />
+            </div>
+          </a>
+
+          <a href="https://github.com/andersonsatiro/cactusNet" target="_blank">
+            <div className="bg-black rounded-full p-2 hover:bg-slate-800">
+              <GithubLogo weight="fill" className="text-xl text-white" />
+            </div>
+          </a>
+        </nav>
+
+      </header>
+      
+      <div className="flex justify-center w-full mt-20">
+        <ChartTabs />
       </div>
 
-      <div className='flex items-center justify-between'>
+      <div className='flex justify-center gap-5 mt-16'>
         <GeneralDataCard
           title='plano mais comum'
           icon={ChartPieSlice}

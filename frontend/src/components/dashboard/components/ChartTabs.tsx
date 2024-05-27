@@ -15,17 +15,43 @@ import {
   TabsList,
   TabsTrigger,
 } from "@/components/ui/tabs"
-import Chart from "./Chart"
+import { useContext, useState } from "react"
+import { GlobalContext } from "@/context/GlobalContext"
+import { StackedBarChart } from "./StackedBarChart"
+
+interface CityInternetStatus {
+  name: string,
+  desconhecido: number;
+  ativo: number;
+  desativado: number;
+  'bloqueio manual': number;
+  'bloqueio automático': number;
+  'financeiro em atraso': number;
+  'aguardando assinatura': number;
+}
  
 export function ChartTabs() {
+
+  const { getInternetStatusOfCities } = useContext(GlobalContext)
+  const [citiesData, setCitiesData] = useState<CityInternetStatus[] | undefined>([])
+
+
   return (
-    <Tabs defaultValue="geral" className="w-[700px]">
+    <Tabs defaultValue="geral" className="w-[85%]">
       <TabsList className="grid w-full grid-cols-4">
         <TabsTrigger value="geral">Geral</TabsTrigger>
-        <TabsTrigger value="cidade">Cidade</TabsTrigger>
+
+        <TabsTrigger
+          onClick={() => getInternetStatusOfCities().then(response =>
+            response && setCitiesData(response))}
+          value="cidade">
+            Cidade
+        </TabsTrigger>
+
         <TabsTrigger value="popCliente">Pop Cliente</TabsTrigger>
         <TabsTrigger value="concentrador">Concentrador</TabsTrigger>
       </TabsList>
+
       <TabsContent value="geral">
         <Card>
           <CardHeader>
@@ -34,43 +60,24 @@ export function ChartTabs() {
               Make changes to your account here. Click save when you're done.
             </CardDescription>
           </CardHeader>
-          <CardContent className="space-y-2">
-            <div className="space-y-1">
-              <Label htmlFor="name">Name</Label>
-              <Input id="name" defaultValue="Pedro Duarte" />
-            </div>
-            <div className="space-y-1">
-              <Label htmlFor="username">Username</Label>
-              <Input id="username" defaultValue="@peduarte" />
-            </div>
+          <CardContent className="w-full h-80 space-y-2">
           </CardContent>
-          <CardFooter>
-            <Button>Save changes</Button>
-          </CardFooter>
         </Card>
       </TabsContent>
 
       <TabsContent value="cidade">
         <Card>
           <CardHeader>
-            <CardTitle>Password</CardTitle>
+            <CardTitle>status de internet das cidades</CardTitle>
             <CardDescription>
-              Change your password here. After saving, you'll be logged out.
+              com o gráfico abaixo podemos detalhar a situação do
+              status de internet para todas as cidades que possuímos clientes.
             </CardDescription>
           </CardHeader>
-          <CardContent className="space-y-2">
-            <div className="space-y-1">
-              <Label htmlFor="current">Current password</Label>
-              <Input id="current" type="password" />
-            </div>
-            <div className="space-y-1">
-              <Label htmlFor="new">New password</Label>
-              <Input id="new" type="password" />
-            </div>
+
+          <CardContent className="w-full h-80 space-y-2">
+            <StackedBarChart data={citiesData} />
           </CardContent>
-          <CardFooter>
-            <Button>Save password</Button>
-          </CardFooter>
         </Card>
       </TabsContent>
 
@@ -108,7 +115,6 @@ export function ChartTabs() {
           </CardHeader>
 
           <CardContent className="w-full h-80 space-y-2">
-            <Chart />
           </CardContent>
         </Card>
       </TabsContent>

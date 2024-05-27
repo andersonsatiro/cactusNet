@@ -1,14 +1,11 @@
 import { House, Users, CurrencyCircleDollar, Database  } from "@phosphor-icons/react";
 import { Separator } from "./ui/separator";
 import { Button } from "./ui/button";
-import { useContext } from "react";
-import { GlobalContext } from "@/context/GlobalContext";
 
 export function Aside() {
-  const {clicando} = useContext(GlobalContext)
   return(
     <aside className='w-[12%] border-r-solid border-r-[1px] border-r-border'>
-      <h1 className='w-full text-center py-3 text-lg'>
+      <h1 className='flex items-center justify-center w-full h-16 text-lg'>
         cactus<strong>NET</strong>
       </h1>
 
@@ -35,8 +32,6 @@ export function Aside() {
           Consumo
         </Button>
       </nav>
-
-      <button onClick={clicando}>clique em mim</button>
     </aside>
   )
 }
