@@ -11,4 +11,8 @@ GET http://localhost:3333/searchAllCities
 # @name city-internet-status
 GET http://localhost:3333/cityInternetStatus/LINHARES
 
+###
+
+# @name general-internet-status
+GET http://localhost:3333/generalInternetStatus
 
