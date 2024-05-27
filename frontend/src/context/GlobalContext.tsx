@@ -41,11 +41,15 @@ interface CityInternetStatus {
 
 
 export const GlobalContext = createContext<{
+  mainContent: string,
+  setMainContent: (value: string) => void,
   makeAllAPICalls: () => void,
   clients: Clients[],
   cities: Cities[],
   getInternetStatusOfCities: () => Promise<CityInternetStatus[] | undefined>
 }>({
+  mainContent: "",
+  setMainContent: () => {},
   makeAllAPICalls: () => {},
   clients: [],
   cities: [],
@@ -54,6 +58,7 @@ export const GlobalContext = createContext<{
 
 export function GlobalContextProvider({ children }: { children: React.ReactNode }) {
 
+  const [mainContent, setMainContent] = useState<string>("dashboard")
   const [clients, setClients] = useState<Clients[]>([])
   const [cities, setCities] = useState<Cities[]>([])
 
@@ -100,12 +105,13 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
       })
       .filter((cityStatus): cityStatus is CityInternetStatus => cityStatus !== undefined)
     
-    console.log(statusOfCities)
     return statusOfCities;
   };
 
   return (
     <GlobalContext.Provider value={{
+      mainContent,
+      setMainContent,
       makeAllAPICalls,
       clients,
       cities,
