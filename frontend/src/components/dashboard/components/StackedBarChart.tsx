@@ -1,4 +1,4 @@
-import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts'
+import { BarChart, Bar, XAxis, CartesianGrid, Tooltip, Legend, ResponsiveContainer } from 'recharts'
 
 interface CityInternetStatus {
   name: string,
@@ -30,7 +30,6 @@ export function StackedBarChart({data}:StackedBarChartProps) {
         >
           <CartesianGrid strokeDasharray="3 3" className='' />
           <XAxis dataKey="name"/>
-          <YAxis />
           <Tooltip />
           <Legend />
           <Bar dataKey="aguardando assinatura" stackId="a" fill="#22d3ee" />

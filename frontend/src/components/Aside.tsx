@@ -7,10 +7,6 @@ import { GlobalContext } from "@/context/GlobalContext";
 export function Aside() {
   const {mainContent, setMainContent} = useContext(GlobalContext)
 
-  const avoidMultipleSelectedButtons = (current: string) => {
-
-  }
-
   return(
     <aside className='w-[12%] border-r-solid border-r-[1px] border-r-border'>
       <h1 className='flex items-center justify-center w-full h-16 text-lg'>
@@ -30,8 +26,8 @@ export function Aside() {
         </Button>
 
         <Button
-          variant={mainContent === "clients" ? 'outline' : 'ghost'}
-          onClick={() => setMainContent("clients")}
+          variant={mainContent === "clientes" ? 'outline' : 'ghost'}
+          onClick={() => setMainContent("clientes")}
           className='flex gap-1'
         >
           <Users size={16} />
@@ -39,8 +35,8 @@ export function Aside() {
         </Button>
 
         <Button
-          variant={mainContent === "financial" ? 'outline' : 'ghost'}
-          onClick={() => setMainContent("financial")}
+          variant={mainContent === "financeiro" ? 'outline' : 'ghost'}
+          onClick={() => setMainContent("financeiro")}
           className='flex gap-1'
         >
           <CurrencyCircleDollar  size={16} />
@@ -48,8 +44,8 @@ export function Aside() {
         </Button>
 
         <Button
-          variant={mainContent === "consumption" ? 'outline' : 'ghost'}
-          onClick={() => setMainContent("consumption")}
+          variant={mainContent === "consumo" ? 'outline' : 'ghost'}
+          onClick={() => setMainContent("consumo")}
           className='flex gap-1'
         >
           <Database  size={16} />

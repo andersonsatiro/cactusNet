@@ -32,13 +32,32 @@ interface CityInternetStatus {
  
 export function ChartTabs() {
 
-  const { getInternetStatusOfCities } = useContext(GlobalContext)
-  const [citiesData, setCitiesData] = useState<CityInternetStatus[] | undefined>([])
+  const { getInternetStatusOfCities, generalInternetStatus } = useContext(GlobalContext)
+  const [citiesData, setCitiesData] = useState<CityInternetStatus[] | undefined>(undefined)
 
+  const returnDataForGeneralStatus = (): CityInternetStatus[] => {
+    let generalStatus: CityInternetStatus | undefined = undefined;
+
+    if (generalInternetStatus.length === 7) {
+      generalStatus = {
+        name: "todas as cidades",
+        desconhecido: Number(generalInternetStatus[0]),
+        ativo: Number(generalInternetStatus[1]),
+        desativado: Number(generalInternetStatus[2]),
+        "bloqueio manual": Number(generalInternetStatus[3]),
+        "bloqueio automático": Number(generalInternetStatus[4]),
+        "financeiro em atraso": Number(generalInternetStatus[5]),
+        "aguardando assinatura": Number(generalInternetStatus[6]),
+      };
+    }
+
+    return generalStatus ? [generalStatus] : [];
+  }
 
   return (
-    <Tabs defaultValue="geral" className="w-[85%]">
+    <Tabs defaultValue="geral" className="w-[70%]">
       <TabsList className="grid w-full grid-cols-4">
+        
         <TabsTrigger value="geral">Geral</TabsTrigger>
 
         <TabsTrigger
@@ -55,12 +74,13 @@ export function ChartTabs() {
       <TabsContent value="geral">
         <Card>
           <CardHeader>
-            <CardTitle>Account</CardTitle>
+            <CardTitle>status geral da internet</CardTitle>
             <CardDescription>
-              Make changes to your account here. Click save when you're done.
+              o gráfico abaixo permite que tenhamos uma visão geral de com o status da intenet dos nossos clientes se encontra
             </CardDescription>
           </CardHeader>
           <CardContent className="w-full h-80 space-y-2">
+            <StackedBarChart data={returnDataForGeneralStatus()} />
           </CardContent>
         </Card>
       </TabsContent>
@@ -68,10 +88,10 @@ export function ChartTabs() {
       <TabsContent value="cidade">
         <Card>
           <CardHeader>
-            <CardTitle>status de internet das cidades</CardTitle>
+            <CardTitle>status da internet das cidades</CardTitle>
             <CardDescription>
               com o gráfico abaixo podemos detalhar a situação do
-              status de internet para todas as cidades que possuímos clientes.
+              status da internet para todas as cidades que possuímos clientes.
             </CardDescription>
           </CardHeader>
 

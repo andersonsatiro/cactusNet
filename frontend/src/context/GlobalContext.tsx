@@ -28,6 +28,10 @@ interface Cities {
   [index: string]: string,
 }
 
+interface GeneralStatus {
+  [index: number]: number,
+}
+
 interface CityInternetStatus {
   name: string,
   desconhecido: number;
@@ -46,6 +50,7 @@ export const GlobalContext = createContext<{
   makeAllAPICalls: () => void,
   clients: Clients[],
   cities: Cities[],
+  generalInternetStatus: GeneralStatus[],
   getInternetStatusOfCities: () => Promise<CityInternetStatus[] | undefined>
 }>({
   mainContent: "",
@@ -53,6 +58,7 @@ export const GlobalContext = createContext<{
   makeAllAPICalls: () => {},
   clients: [],
   cities: [],
+  generalInternetStatus: [],
   getInternetStatusOfCities: async () => undefined,
 });
 
@@ -61,6 +67,7 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
   const [mainContent, setMainContent] = useState<string>("dashboard")
   const [clients, setClients] = useState<Clients[]>([])
   const [cities, setCities] = useState<Cities[]>([])
+  const [generalInternetStatus, setGeneralInternetStatus] = useState<GeneralStatus[]>([])
 
   const apiCall = async (endpoint:string) => {
     try {
@@ -72,13 +79,15 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
   }
 
   const makeAllAPICalls = async () => {
-    const [clients, cities] = await Promise.all([
+    const [clients, cities, generalInternetStatus] = await Promise.all([
       apiCall('/findManyCliente'),
       apiCall('/searchAllCities'),
+      apiCall('/generalInternetStatus'),
     ]);
 
     setClients(JSON.parse(clients))
     setCities(JSON.parse(cities))
+    setGeneralInternetStatus(JSON.parse(generalInternetStatus))
   }
 
   const getInternetStatusOfCities = async (): Promise<CityInternetStatus[] | undefined> => {
@@ -115,6 +124,7 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
       makeAllAPICalls,
       clients,
       cities,
+      generalInternetStatus,
       getInternetStatusOfCities,
     }}>
       {children}
