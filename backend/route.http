@@ -31,5 +31,10 @@ GET http://localhost:3333/searchAllHubs
 # @name internet-status-by-pop-cliente
 GET http://localhost:3333/internetStatusByPopCliente/SOORETAMA B
 
+###
+
+# @name search-all-pop-clientes
+GET http://localhost:3333/searchAllPopClientes
+
 
 
