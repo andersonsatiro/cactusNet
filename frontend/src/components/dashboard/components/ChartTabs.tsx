@@ -37,10 +37,11 @@ interface Names {
  
 export function ChartTabs() {
 
-  const {getInternetStatus, cities, hubs } = useContext(GlobalContext)
+  const {getInternetStatus, cities, hubs, popClientes } = useContext(GlobalContext)
   const [citiesData, setCitiesData] = useState<InternetStatus[] | []>([])
   const [hubsData, setHubsData] = useState<InternetStatus[] | []>([])
   const [generalData, setGeneralData] = useState<InternetStatus[] | []>([])
+  const [popClientesData, setPopClientesData] = useState<InternetStatus[] | []>([])
 
   const organizeObjectToSendToChart = (dataArray: StatusData[] | [], nameArray: Names[] | string[], type:string) => {
     let data: any = []
@@ -64,13 +65,16 @@ export function ChartTabs() {
 
     type === "city" ? setCitiesData(data)  :
     type === "hub" ? setHubsData(data) :
-    type === "general" ? setGeneralData(data) : ''
+    type === "general" ? setGeneralData(data) :
+    type === "popClientes" ? setPopClientesData(data)
+    : ''
   }
 
   const findDataForInternetStatus = (type: string) => {
     const nameArray = type === "city" ? cities
     : type === "hub" ? hubs
     : type === "general" ? ['todas as cidades']
+    : type ==="popClientes" ? popClientes
     : []
 
 
@@ -93,15 +97,23 @@ export function ChartTabs() {
         <TabsTrigger
           value="cidade"
           onClick={() => findDataForInternetStatus("city")}
-        >Cidade</TabsTrigger>
+        >
+          Cidade
+        </TabsTrigger>
 
         <TabsTrigger
+          value="concentrador"
           onClick={() => findDataForInternetStatus("hub")}
-          value="concentrador">
+        >
             Concentrador
         </TabsTrigger>
 
-        <TabsTrigger value="popCliente">Concentrador</TabsTrigger>
+        <TabsTrigger
+          value="popCliente"
+          onClick={() => findDataForInternetStatus("popClientes")}
+        >
+          Pop Cliente
+        </TabsTrigger>
       </TabsList>
 
       <TabsContent value="geral">
@@ -109,7 +121,7 @@ export function ChartTabs() {
           <CardHeader>
             <CardTitle>status geral da internet</CardTitle>
             <CardDescription>
-              o gráfico abaixo permite que tenhamos uma visão geral de com o status da intenet dos nossos clientes se encontra
+              o gráfico abaixo permite que tenhamos uma visão geral de como o status da internet dos nossos clientes se encontra.
             </CardDescription>
           </CardHeader>
           <CardContent className="w-full h-80 space-y-2">
@@ -137,9 +149,10 @@ export function ChartTabs() {
       <TabsContent value="concentrador">
         <Card>
           <CardHeader>
-            <CardTitle>Password</CardTitle>
+            <CardTitle>status da internet dos concentradores</CardTitle>
             <CardDescription>
-              Change your password here. After saving, you'll be logged out.
+              com o gráfico abaixo podemos detalhar a situação do
+              status da internet dos clientes de cada concentrador.
             </CardDescription>
           </CardHeader>
 
@@ -152,13 +165,15 @@ export function ChartTabs() {
       <TabsContent value="popCliente">
         <Card>
           <CardHeader>
-            <CardTitle>Password</CardTitle>
+            <CardTitle>status da internet dos pop clientes</CardTitle>
             <CardDescription>
-              Change your password here. After saving, you'll be logged out.
+              com o gráfico abaixo podemos detalhar a situação do
+              status da internet dos clientes de cada pop cliente.
             </CardDescription>
           </CardHeader>
 
           <CardContent className="w-full h-80 space-y-2">
+            <StackedBarChart data={popClientesData} />
           </CardContent>
         </Card>
       </TabsContent>

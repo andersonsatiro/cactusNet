@@ -39,7 +39,8 @@ export const GlobalContext = createContext<{
   clients: Clients[],
   cities: Names[],
   generalInternetStatus: StatusData[],
-  hubs: Names[]
+  hubs: Names[],
+  popClientes: Names[],
   getInternetStatus: (type: string) => Promise<StatusData[] | []>,
 }>({
   mainContent: "",
@@ -49,6 +50,7 @@ export const GlobalContext = createContext<{
   cities: [],
   generalInternetStatus: [],
   hubs: [],
+  popClientes: [],
   getInternetStatus: async () => [],
 });
 
@@ -59,6 +61,7 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
   const [cities, setCities] = useState<Names[]>([])
   const [generalInternetStatus, setGeneralInternetStatus] = useState<StatusData[]>([])
   const [hubs, setHubs] = useState<Names[]>([])
+  const [popClientes, setPopClientes] = useState<Names[]>([])
 
   const apiCall = async (endpoint:string) => {
     try {
@@ -70,17 +73,19 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
   }
 
   const makeAllAPICalls = async () => {
-    const [clients, cities, generalInternetStatus, hubs] = await Promise.all([
+    const [clients, cities, generalInternetStatus, hubs, popClientes] = await Promise.all([
       apiCall('/findManyCliente'),
       apiCall('/searchAllCities'),
       apiCall('/generalInternetStatus'),
-      apiCall('searchAllHubs')
+      apiCall('/searchAllHubs'),
+      apiCall('/searchAllPopClientes'),
     ]);
 
     setClients(clients)
     setCities(cities)
     setGeneralInternetStatus(generalInternetStatus)
     setHubs(hubs)
+    setPopClientes(popClientes)
   }
 
   const getInternetStatus = async (type: string) => {
@@ -94,7 +99,10 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
         :
       type === "general"
         ? [apiCall('/generalInternetStatus')]
-        : ''
+        :
+      type === "popClientes"
+      ? popClientes.map(popCliente => apiCall(`/internetStatusByPopCliente/${popCliente}`))
+      : ''
     )
 
     return !responses ? [] : responses
@@ -111,6 +119,7 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
       cities,
       generalInternetStatus,
       hubs,
+      popClientes,
       getInternetStatus,
     }}>
       {children}
