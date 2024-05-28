@@ -9,7 +9,7 @@ GET http://localhost:3333/searchAllCities
 ###
 
 # @name city-internet-status
-GET http://localhost:3333/cityInternetStatus/LINHARES
+GET http://localhost:3333/cityInternetStatus/SOORETAMA
 
 ###
 
@@ -19,11 +19,17 @@ GET http://localhost:3333/generalInternetStatus
 ###
 
 # @name internet-status-by-hub
-GET http://localhost:3333/internetStatusByHub/Concentrador_Giganet
+GET http://localhost:3333/internetStatusByHub/Concentrador_Core
 
 ###
 
 # @name search-all-hubs
 GET http://localhost:3333/searchAllHubs
+
+###
+
+# @name internet-status-by-pop-cliente
+GET http://localhost:3333/internetStatusByPopCliente/SOORETAMA B
+
 
 
