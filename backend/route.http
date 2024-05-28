@@ -21,3 +21,9 @@ GET http://localhost:3333/generalInternetStatus
 # @name internet-status-by-hub
 GET http://localhost:3333/internetStatusByHub/Concentrador_Giganet
 
+###
+
+# @name search-all-hubs
+GET http://localhost:3333/searchAllHubs
+
+
