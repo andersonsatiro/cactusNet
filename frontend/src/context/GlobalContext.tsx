@@ -114,8 +114,8 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
       })
       .filter((cityStatus): cityStatus is CityInternetStatus => cityStatus !== undefined)
     
-    return statusOfCities;
-  };
+    return statusOfCities
+  }
 
   return (
     <GlobalContext.Provider value={{
