@@ -1,25 +1,22 @@
-import { Button } from "@/components/ui/button"
 import {
   Card,
   CardContent,
   CardDescription,
-  CardFooter,
   CardHeader,
   CardTitle,
 } from "@/components/ui/card"
-import { Input } from "@/components/ui/input"
-import { Label } from "@/components/ui/label"
+
 import {
   Tabs,
   TabsContent,
   TabsList,
   TabsTrigger,
 } from "@/components/ui/tabs"
-import { useContext, useState } from "react"
+import { useContext, useEffect, useState } from "react"
 import { GlobalContext } from "@/context/GlobalContext"
 import { StackedBarChart } from "./StackedBarChart"
 
-interface CityInternetStatus {
+interface InternetStatus {
   name: string,
   desconhecido: number;
   ativo: number;
@@ -29,46 +26,82 @@ interface CityInternetStatus {
   'financeiro em atraso': number;
   'aguardando assinatura': number;
 }
+
+interface StatusData {
+  [index: number]: number,
+}
+
+interface Names {
+  [index: string]: string
+}
  
 export function ChartTabs() {
 
-  const { getInternetStatusOfCities, generalInternetStatus } = useContext(GlobalContext)
-  const [citiesData, setCitiesData] = useState<CityInternetStatus[] | undefined>(undefined)
+  const {getInternetStatus, cities, hubs } = useContext(GlobalContext)
+  const [citiesData, setCitiesData] = useState<InternetStatus[] | []>([])
+  const [hubsData, setHubsData] = useState<InternetStatus[] | []>([])
+  const [generalData, setGeneralData] = useState<InternetStatus[] | []>([])
 
-  const returnDataForGeneralStatus = (): CityInternetStatus[] => {
-    let generalStatus: CityInternetStatus | undefined = undefined;
+  const organizeObjectToSendToChart = (dataArray: StatusData[] | [], nameArray: Names[] | string[], type:string) => {
+    let data: any = []
 
-    if (generalInternetStatus.length === 7) {
-      generalStatus = {
-        name: "todas as cidades",
-        desconhecido: Number(generalInternetStatus[0]),
-        ativo: Number(generalInternetStatus[1]),
-        desativado: Number(generalInternetStatus[2]),
-        "bloqueio manual": Number(generalInternetStatus[3]),
-        "bloqueio automático": Number(generalInternetStatus[4]),
-        "financeiro em atraso": Number(generalInternetStatus[5]),
-        "aguardando assinatura": Number(generalInternetStatus[6]),
-      };
-    }
+    data = nameArray.map((nameArrayItem, index) => {
+      if(dataArray !== undefined){
+        return {
+          name: nameArrayItem,
+          desconhecido: dataArray[index][0],
+          ativo: dataArray[index][1],
+          desativado: dataArray[index][2],
+          'bloqueio manual': dataArray[index][3],
+          'bloqueio automático': dataArray[index][4],
+          'financeiro em atraso': dataArray[index][5],
+          'aguardando assinatura': dataArray[index][6],
+        }
+      } else {
+        return []
+      }
+    })
 
-    return generalStatus ? [generalStatus] : [];
+    type === "city" ? setCitiesData(data)  :
+    type === "hub" ? setHubsData(data) :
+    type === "general" ? setGeneralData(data) : ''
   }
 
+  const findDataForInternetStatus = (type: string) => {
+    const nameArray = type === "city" ? cities
+    : type === "hub" ? hubs
+    : type === "general" ? ['todas as cidades']
+    : []
+
+
+    getInternetStatus(type).then((dataArray) => {
+      organizeObjectToSendToChart(dataArray, nameArray, type)
+    })
+  }
+
+  useEffect(() => {
+    findDataForInternetStatus("general")
+  }, [])
+
   return (
-    <Tabs defaultValue="geral" className="w-[70%]">
+    <Tabs defaultValue="geral" className="w-[85%]">
+
       <TabsList className="grid w-full grid-cols-4">
-        
+
         <TabsTrigger value="geral">Geral</TabsTrigger>
 
         <TabsTrigger
-          onClick={() => getInternetStatusOfCities().then(response =>
-            response && setCitiesData(response))}
-          value="cidade">
-            Cidade
+          value="cidade"
+          onClick={() => findDataForInternetStatus("city")}
+        >Cidade</TabsTrigger>
+
+        <TabsTrigger
+          onClick={() => findDataForInternetStatus("hub")}
+          value="concentrador">
+            Concentrador
         </TabsTrigger>
 
-        <TabsTrigger value="popCliente">Pop Cliente</TabsTrigger>
-        <TabsTrigger value="concentrador">Concentrador</TabsTrigger>
+        <TabsTrigger value="popCliente">Concentrador</TabsTrigger>
       </TabsList>
 
       <TabsContent value="geral">
@@ -80,7 +113,7 @@ export function ChartTabs() {
             </CardDescription>
           </CardHeader>
           <CardContent className="w-full h-80 space-y-2">
-            <StackedBarChart data={returnDataForGeneralStatus()} />
+            <StackedBarChart data={generalData} />
           </CardContent>
         </Card>
       </TabsContent>
@@ -101,7 +134,7 @@ export function ChartTabs() {
         </Card>
       </TabsContent>
 
-      <TabsContent value="popCliente">
+      <TabsContent value="concentrador">
         <Card>
           <CardHeader>
             <CardTitle>Password</CardTitle>
@@ -109,23 +142,14 @@ export function ChartTabs() {
               Change your password here. After saving, you'll be logged out.
             </CardDescription>
           </CardHeader>
-          <CardContent className="space-y-2">
-            <div className="space-y-1">
-              <Label htmlFor="current">Current password</Label>
-              <Input id="current" type="password" />
-            </div>
-            <div className="space-y-1">
-              <Label htmlFor="new">New password</Label>
-              <Input id="new" type="password" />
-            </div>
+
+          <CardContent className="w-full h-80 space-y-2">
+            <StackedBarChart data={hubsData} />
           </CardContent>
-          <CardFooter>
-            <Button>Save password</Button>
-          </CardFooter>
         </Card>
       </TabsContent>
 
-      <TabsContent value="concentrador">
+      <TabsContent value="popCliente">
         <Card>
           <CardHeader>
             <CardTitle>Password</CardTitle>

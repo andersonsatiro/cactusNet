@@ -1,9 +1,9 @@
 import { useContext, useEffect } from 'react';
 import { Aside } from './components/Aside';
-import { Dashboard } from './components/dashboard/Dashboard';
 import { GlobalContext } from './context/GlobalContext';
 import { ChartBar } from '@phosphor-icons/react';
 import { Clients } from './components/clientes/Clients';
+import { Dashboard } from './components/dashboard/components/Dashboard';
 export function App() {
 
   const {makeAllAPICalls, mainContent} = useContext(GlobalContext)

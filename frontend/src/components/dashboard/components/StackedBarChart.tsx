@@ -32,13 +32,13 @@ export function StackedBarChart({data}:StackedBarChartProps) {
           <XAxis dataKey="name"/>
           <Tooltip />
           <Legend />
-          <Bar dataKey="aguardando assinatura" stackId="a" fill="#22d3ee" />
-          <Bar dataKey="ativo" stackId="a" fill="#f43f5e" />
-          <Bar dataKey="bloqueio automático" stackId="a" fill="#3b82f6" />
-          <Bar dataKey="bloqueio manual" stackId="a" fill="#fb923c" />
-          <Bar dataKey="desativado" stackId="a" fill="#059669" />
           <Bar dataKey="desconhecido" stackId="a" fill="#8b5cf6" />
+          <Bar dataKey="ativo" stackId="a" fill="#f43f5e" />
+          <Bar dataKey="desativado" stackId="a" fill="#059669" />
+          <Bar dataKey="bloqueio manual" stackId="a" fill="#fb923c" />
+          <Bar dataKey="bloqueio automático" stackId="a" fill="#3b82f6" />
           <Bar dataKey="financeiro em atraso" stackId="a" fill="#52525b" />
+          <Bar dataKey="aguardando assinatura" stackId="a" fill="#22d3ee" />
         </BarChart>
       </ResponsiveContainer>
   )

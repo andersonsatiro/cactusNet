@@ -24,34 +24,23 @@ interface Clients {
   valorPlano: number,
 }
 
-interface Cities {
+interface Names {
   [index: string]: string,
 }
 
-interface GeneralStatus {
+interface StatusData {
   [index: number]: number,
 }
-
-interface CityInternetStatus {
-  name: string,
-  desconhecido: number;
-  ativo: number;
-  desativado: number;
-  'bloqueio manual': number;
-  'bloqueio automático': number;
-  'financeiro em atraso': number;
-  'aguardando assinatura': number;
-}
-
 
 export const GlobalContext = createContext<{
   mainContent: string,
   setMainContent: (value: string) => void,
   makeAllAPICalls: () => void,
   clients: Clients[],
-  cities: Cities[],
-  generalInternetStatus: GeneralStatus[],
-  getInternetStatusOfCities: () => Promise<CityInternetStatus[] | undefined>
+  cities: Names[],
+  generalInternetStatus: StatusData[],
+  hubs: Names[]
+  getInternetStatus: (type: string) => Promise<StatusData[] | []>,
 }>({
   mainContent: "",
   setMainContent: () => {},
@@ -59,63 +48,59 @@ export const GlobalContext = createContext<{
   clients: [],
   cities: [],
   generalInternetStatus: [],
-  getInternetStatusOfCities: async () => undefined,
+  hubs: [],
+  getInternetStatus: async () => [],
 });
 
 export function GlobalContextProvider({ children }: { children: React.ReactNode }) {
 
   const [mainContent, setMainContent] = useState<string>("dashboard")
   const [clients, setClients] = useState<Clients[]>([])
-  const [cities, setCities] = useState<Cities[]>([])
-  const [generalInternetStatus, setGeneralInternetStatus] = useState<GeneralStatus[]>([])
+  const [cities, setCities] = useState<Names[]>([])
+  const [generalInternetStatus, setGeneralInternetStatus] = useState<StatusData[]>([])
+  const [hubs, setHubs] = useState<Names[]>([])
 
   const apiCall = async (endpoint:string) => {
     try {
       const response = await api.get(endpoint)
-      if(response) return response.data
+      if(response) return JSON.parse(response.data)
     } catch(error) {
       console.error("Erro ao buscar os dados: ", error)
     }
   }
 
   const makeAllAPICalls = async () => {
-    const [clients, cities, generalInternetStatus] = await Promise.all([
+    const [clients, cities, generalInternetStatus, hubs] = await Promise.all([
       apiCall('/findManyCliente'),
       apiCall('/searchAllCities'),
       apiCall('/generalInternetStatus'),
+      apiCall('searchAllHubs')
     ]);
 
-    setClients(JSON.parse(clients))
-    setCities(JSON.parse(cities))
-    setGeneralInternetStatus(JSON.parse(generalInternetStatus))
+    setClients(clients)
+    setCities(cities)
+    setGeneralInternetStatus(generalInternetStatus)
+    setHubs(hubs)
   }
 
-  const getInternetStatusOfCities = async (): Promise<CityInternetStatus[] | undefined> => {
+  const getInternetStatus = async (type: string) => {
+
     const responses = await Promise.all(
-      cities.map(city => apiCall(`/cityInternetStatus/${city}`))
-    );
+      type === "city"
+        ? cities.map(city => apiCall(`/cityInternetStatus/${city}`))
+        :
+      type === "hub"
+        ? hubs.map(hub => apiCall(`/internetStatusByHub/${hub}`))
+        :
+      type === "general"
+        ? [apiCall('/generalInternetStatus')]
+        : ''
+    )
 
-    const statusOfCities: CityInternetStatus[] = responses
-      .map((response, index) => {
-        if (response) {
-          const transformIntoArray = JSON.parse(response)
-          return {
-            name: typeof cities[index] === 'string' ? cities[index] : `Cidade ${index}`,
-            desconhecido: transformIntoArray[0],
-            ativo: transformIntoArray[1],
-            desativado: transformIntoArray[2],
-            'bloqueio manual': transformIntoArray[3],
-            'bloqueio automático': transformIntoArray[4],
-            'financeiro em atraso': transformIntoArray[5],
-            'aguardando assinatura': transformIntoArray[6],
-          } as CityInternetStatus
-        }
-        return undefined
-      })
-      .filter((cityStatus): cityStatus is CityInternetStatus => cityStatus !== undefined)
-    
-    return statusOfCities
+    return !responses ? [] : responses
   }
+
+  getInternetStatus("city")
 
   return (
     <GlobalContext.Provider value={{
@@ -125,7 +110,8 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
       clients,
       cities,
       generalInternetStatus,
-      getInternetStatusOfCities,
+      hubs,
+      getInternetStatus,
     }}>
       {children}
     </GlobalContext.Provider>

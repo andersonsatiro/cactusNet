@@ -1,7 +1,7 @@
 import { ChartPieSlice, City } from "@phosphor-icons/react";
-import { GeneralDataCard } from "./components/GeneralDataCard";
 import { Divide } from "lucide-react";
-import { ChartTabs } from "./components/ChartTabs";
+import { ChartTabs } from "./ChartTabs";
+import { GeneralDataCard } from "./GeneralDataCard";
 
 
 
