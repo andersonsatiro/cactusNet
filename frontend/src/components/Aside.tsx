@@ -1,4 +1,4 @@
-import { House, Users, CurrencyCircleDollar, Database  } from "@phosphor-icons/react";
+import { House, Users } from "@phosphor-icons/react";
 import { Separator } from "./ui/separator";
 import { Button } from "./ui/button";
 import { useContext } from "react";
@@ -32,24 +32,6 @@ export function Aside() {
         >
           <Users size={16} />
           Clientes
-        </Button>
-
-        <Button
-          variant={mainContent === "financeiro" ? 'outline' : 'ghost'}
-          onClick={() => setMainContent("financeiro")}
-          className='flex gap-1'
-        >
-          <CurrencyCircleDollar  size={16} />
-          Financeiro
-        </Button>
-
-        <Button
-          variant={mainContent === "consumo" ? 'outline' : 'ghost'}
-          onClick={() => setMainContent("consumo")}
-          className='flex gap-1'
-        >
-          <Database  size={16} />
-          Consumo
         </Button>
       </nav>
     </aside>

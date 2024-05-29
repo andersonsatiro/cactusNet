@@ -10,17 +10,25 @@ import {
 import {
   Pagination,
   PaginationContent,
-  PaginationEllipsis,
   PaginationItem,
   PaginationLink,
   PaginationNext,
   PaginationPrevious,
 } from "@/components/ui/pagination"
 
+import {
+  Dialog,
+  DialogContent,
+  DialogDescription,
+  DialogHeader,
+  DialogTitle,
+  DialogTrigger,
+} from "@/components/ui/dialog"
+
 import { CardDescription, CardHeader, CardTitle } from "../ui/card"
-import { Input } from "../ui/input"
 import { useContext, useState } from "react"
 import { GlobalContext } from "@/context/GlobalContext"
+import { MapPin } from "@phosphor-icons/react"
 
 interface Clients {
   id: string,
@@ -46,7 +54,6 @@ interface Clients {
 }
 
 export function Clients() {
-
   const {clients} = useContext(GlobalContext)
 
   const [currentPage, setCurrentPage] = useState(1)
@@ -55,23 +62,19 @@ export function Clients() {
   const indexOfFirstItem = indexOfLastItem - itemsPerPage
   const currentItems = clients.slice(indexOfFirstItem, indexOfLastItem)
 
+  const [detailedClient, setDetailedClient] = useState<Clients>()
+
   return (
     <div className="flex flex-col gap-4 w-full">
 
       <CardHeader className="pl-[5%]">
         <CardTitle>Clientes da cactus<span className="font-bold">NET</span></CardTitle>
         <CardDescription className="max-w-[40%]">
-          a tabela abaixo possibilita a listagem dos clientes da nossa empresa. Além disso, 
-          contém filtros que permitem que você encontre exatamente os clientes que busca.
+          a tabela abaixo possibilita a listagem dos clientes da nossa empresa.
         </CardDescription>
       </CardHeader>
 
-      <form action="" className="pl-[5%] w-[95%]">
-        <Input name="name" placeholder="Nome" className="w-fit"/>
-      </form>
-
       <Table className="w-[95%] pl-9 border-2 border-border">
-
         <TableHeader>
           <TableRow>
             <TableHead className="w-[250px]">Nome</TableHead>
@@ -87,37 +90,75 @@ export function Clients() {
 
         <TableBody>
           {currentItems.map((client) => (
-            <TableRow key={client.id}>
-              <TableCell className="font-medium">{client.nomeCliente}</TableCell>
+            <Dialog>
+              <DialogTrigger asChild>
 
-              <TableCell>
-                <span className="relative flex h-3 w-3">
-                  <span
-                    className={`animate-ping absolute inline-flex h-full w-full rounded-full opacity-75
-                    ${client.statusCliente ? 'bg-green-400' : 'bg-red-400'}`}
-                  >
-                  </span>
+                <TableRow key={client.id} className="hover:cursor-pointer" onClick={() => setDetailedClient(client)}>
+                  <TableCell className="font-medium">{client.nomeCliente}</TableCell>
 
-                  <span
-                    className={`relative inline-flex rounded-full h-3 w-3
-                    ${client.statusCliente ? 'bg-green-400' : 'bg-red-400'}`}
-                  >
-                  </span>
-                </span>
-              </TableCell>
+                  <TableCell>
+                    <span className="relative flex h-3 w-3">
+                      <span
+                        className={`animate-ping absolute inline-flex h-full w-full rounded-full opacity-75
+                        ${client.statusCliente ? 'bg-green-400' : 'bg-red-400'}`}
+                      >
+                      </span>
 
-              <TableCell>{client.planoContrato}</TableCell>
+                      <span
+                        className={`relative inline-flex rounded-full h-3 w-3
+                        ${client.statusCliente ? 'bg-green-400' : 'bg-red-400'}`}
+                      >
+                      </span>
+                    </span>
+                  </TableCell>
 
-              <TableCell>{client.valorPlano.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'})}</TableCell>
+                  <TableCell>{client.planoContrato}</TableCell>
 
-              <TableCell>{client.cidadeCliente}</TableCell>
+                  <TableCell>{client.valorPlano.toLocaleString('pt-br',{style: 'currency', currency: 'BRL'})}</TableCell>
 
-              <TableCell>{client.statusInternet}</TableCell>
+                  <TableCell>{client.cidadeCliente}</TableCell>
 
-              <TableCell>{(client.tempoConectado/60).toFixed(2)} minutos</TableCell>
+                  <TableCell>{client.statusInternet}</TableCell>
 
-              <TableCell className="text-right">{client.nomeConcentrador}</TableCell>
-            </TableRow>
+                  <TableCell>{(client.tempoConectado/60).toFixed(2)} minutos</TableCell>
+
+                  <TableCell className="text-right">{client.nomeConcentrador}</TableCell>
+                </TableRow>
+
+              </DialogTrigger>
+
+              <DialogContent className="flex flex-col gap-4 sm:max-w-[30%]">
+
+                <DialogHeader className="flex flex-col gap-1">
+                  <DialogTitle>{detailedClient?.nomeCliente}</DialogTitle>
+
+                  <div className="flex items-center gap-1">
+                    <MapPin size={16} weight="fill" className="text-rose-500" />           
+                    <DialogDescription>
+                      {detailedClient?.cidadeCliente}, {detailedClient?.bairroCliente}
+                    </DialogDescription>
+                  </div>
+                </DialogHeader>
+
+                <div className="flex flex-col gap-2">
+                    <DialogTitle>mais detalhes</DialogTitle>
+                    <div className="flex flex-col gap-1">
+                      <DialogDescription>
+                        Assinante do plano {detailedClient?.planoContrato} e paga uma mensalidade
+                        de R${detailedClient?.valorPlano} para a cactusNET.
+                      </DialogDescription>
+
+                      <DialogDescription>
+                        Tempo conectado: {detailedClient?.tempoConectado}seg
+                      </DialogDescription>
+
+                      <DialogDescription>
+                        Concentrador: {detailedClient?.nomeConcentrador}
+                      </DialogDescription>
+                    </div>
+                </div>
+              </DialogContent>
+            </Dialog>
           ))}
         </TableBody>
       </Table>
@@ -170,24 +211,24 @@ export function Clients() {
 
 
 /*
-X bairroCliente: "CANAA"
-✅ cidadeCliente: "SOORETAMA"
-X conexaoFinal: null
+✅✅ bairroCliente: "CANAA"
+✅✅ cidadeCliente: "SOORETAMA"
+XX conexaoFinal: null
 X conexaoInicial: "2024-05-07T21:19:57.000Z"
 X consumoDownload: "18315384028"
 X consumoUpload: "1329340078"
-X enderecoCliente: ""
+XX enderecoCliente: ""
 X id: "ee62b9b4-f407-4e81-b997-85f14d83dc53"
 X ipConcentrador: "10.10.0.11"
 X latitudeCliente: "-191.934.682"
 X longitudeCliente: "-400.982.687"
-X motivoDesconexao: ""
-✅ nomeCliente: "KELLIE ROHAN-MCCLURE SR."
+XX motivoDesconexao: ""
+✅✅ nomeCliente: "KELLIE ROHAN-MCCLURE SR."
 ✅ nomeConcentrador: "Concentrador_Core"
-✅ planoContrato: "20 MB Internet Fibra"
+✅✅ planoContrato: "20 MB Internet Fibra"
 X popCliente: "SOORETAMA C"
 ✅ statusCliente: true
 ✅ statusInternet: 1
-✅ tempoConectado: 66493
-X valorPlano: 59.9
+✅✅ tempoConectado: 66493
+✅✅ valorPlano: 59.9
 */
