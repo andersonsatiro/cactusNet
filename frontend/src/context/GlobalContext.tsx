@@ -32,6 +32,16 @@ interface StatusData {
   [index: number]: number,
 }
 
+interface CommonPlan {
+  plano: string,
+  amount: number
+}
+
+interface CommonCity {
+  city: string,
+  amount: number
+}
+
 export const GlobalContext = createContext<{
   mainContent: string,
   setMainContent: (value: string) => void,
@@ -42,6 +52,10 @@ export const GlobalContext = createContext<{
   hubs: Names[],
   popClientes: Names[],
   getInternetStatus: (type: string) => Promise<StatusData[] | []>,
+  mostCommonPlan: CommonPlan,
+  mostCommonCity: CommonCity,
+  averageTimeConnected: number,
+  totalRevenuePerMonth: number,
 }>({
   mainContent: "",
   setMainContent: () => {},
@@ -52,6 +66,10 @@ export const GlobalContext = createContext<{
   hubs: [],
   popClientes: [],
   getInternetStatus: async () => [],
+  mostCommonPlan: {plano: "", amount:0},
+  mostCommonCity: {city: "", amount:0},
+  averageTimeConnected: 0,
+  totalRevenuePerMonth: 0,
 });
 
 export function GlobalContextProvider({ children }: { children: React.ReactNode }) {
@@ -62,6 +80,10 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
   const [generalInternetStatus, setGeneralInternetStatus] = useState<StatusData[]>([])
   const [hubs, setHubs] = useState<Names[]>([])
   const [popClientes, setPopClientes] = useState<Names[]>([])
+  const [mostCommonPlan, setMostCommonPlan] = useState<CommonPlan>({plano: "", amount:0})
+  const [mostCommonCity, setMostCommonCity] = useState<CommonCity>({city: "", amount:0})
+  const [averageTimeConnected, setAverageTimeConnected] = useState<number>(0)
+  const [totalRevenuePerMonth, setTotalRevenuePerMonth] = useState<number>(0)
 
   const apiCall = async (endpoint:string) => {
     try {
@@ -73,12 +95,17 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
   }
 
   const makeAllAPICalls = async () => {
-    const [clients, cities, generalInternetStatus, hubs, popClientes] = await Promise.all([
+    const [clients, cities, generalInternetStatus, hubs, popClientes, mostCommonPlan,
+      mostCommonCity, averageTimeConnected, totalRevenuePerMonth] = await Promise.all([
       apiCall('/findManyCliente'),
       apiCall('/searchAllCities'),
       apiCall('/generalInternetStatus'),
       apiCall('/searchAllHubs'),
       apiCall('/searchAllPopClientes'),
+      apiCall('/mostCommonPlan'),
+      apiCall('/mostCommonCity'),
+      apiCall('/averageTimeConnected'),
+      apiCall('/totalRevenuePerMonth'),
     ]);
 
     setClients(clients)
@@ -86,6 +113,10 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
     setGeneralInternetStatus(generalInternetStatus)
     setHubs(hubs)
     setPopClientes(popClientes)
+    setMostCommonPlan(mostCommonPlan)
+    setMostCommonCity(mostCommonCity)
+    setAverageTimeConnected(averageTimeConnected)
+    setTotalRevenuePerMonth(totalRevenuePerMonth)
   }
 
   const getInternetStatus = async (type: string) => {
@@ -121,6 +152,10 @@ export function GlobalContextProvider({ children }: { children: React.ReactNode 
       hubs,
       popClientes,
       getInternetStatus,
+      mostCommonPlan,
+      mostCommonCity,
+      averageTimeConnected,
+      totalRevenuePerMonth,
     }}>
       {children}
     </GlobalContext.Provider>
