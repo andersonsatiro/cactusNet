@@ -14474,3 +14474,1930 @@
 28/05/2024 17:36:07.572 [[32minfo[39m]: successfully found plan
 28/05/2024 17:39:55.458 [[31merror[39m]: path: src/models/mostCommonPlan.js message: response is not defined
 28/05/2024 17:40:24.483 [[32minfo[39m]: successfully found plan
+28/05/2024 17:40:59.830 [[32minfo[39m]: successfully found plan
+28/05/2024 17:44:11.169 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:44:11.170 [[32minfo[39m]: successfully found clients
+28/05/2024 17:44:11.181 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.182 [[32minfo[39m]: successfully found cities
+28/05/2024 17:44:11.186 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:44:11.419 [[32minfo[39m]: successfully found cities
+28/05/2024 17:44:11.420 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:44:11.421 [[32minfo[39m]: successfully found clients
+28/05/2024 17:44:11.434 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:44:11.435 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.553 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.637 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.637 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.755 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.756 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.756 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.866 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.867 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.867 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.867 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.868 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.868 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.915 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:11.915 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.342 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.343 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.343 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.343 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.344 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.344 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.393 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:14.393 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.487 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.489 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.489 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.489 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:44:15.535 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.300 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.301 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.301 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.301 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.301 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.302 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.386 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.387 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.387 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.388 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.388 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.388 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.462 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.463 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.463 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.463 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.464 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.464 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.530 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.530 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.530 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.531 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:37.531 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.423 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.424 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.424 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.425 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.425 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.425 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:40.463 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.215 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.216 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.216 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.216 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.217 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.217 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.267 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:41.267 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.256 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.257 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.257 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.257 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.258 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.258 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.319 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:43.319 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.058 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.059 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.059 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.059 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.060 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.060 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.182 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.183 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.183 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:49:52.308 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.716 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.716 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.717 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.717 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.717 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.718 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.765 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:47.766 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.413 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.414 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.414 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.414 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.415 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.415 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.458 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.972 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.972 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.972 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.973 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.973 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:48.973 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.042 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.042 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.839 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.839 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.840 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.840 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.840 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:49.840 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.004 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.004 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.254 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.254 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.254 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.255 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.255 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.255 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.297 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.942 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.943 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.943 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.944 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.944 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:50.944 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.014 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.014 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.015 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.015 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.015 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.016 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.092 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.093 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.093 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.093 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.094 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.094 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.163 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.164 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.165 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.165 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.165 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.284 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.285 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.285 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.286 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.286 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.286 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.329 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.744 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.745 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.745 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.745 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:50:51.814 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.342 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:12.343 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.343 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:12.344 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:12.362 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:12.602 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:12.612 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:12.613 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:12.613 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.614 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:12.781 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.781 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.782 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.782 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.783 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.784 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:12.908 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.908 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.909 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.909 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.910 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:12.962 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:13.078 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.079 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.079 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.080 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.080 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.080 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.131 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:13.132 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.273 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:22.285 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.286 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:22.289 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:22.291 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:22.530 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:22.531 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.531 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:22.532 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:22.547 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:22.702 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.703 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.703 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.704 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.705 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:22.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.865 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:22.875 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.875 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.876 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.876 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:22.876 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.277 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:23.278 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.278 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:23.279 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:23.283 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:23.515 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.516 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:23.516 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:23.517 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:23.518 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:23.681 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.681 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.682 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.682 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.682 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:23.684 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.828 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:23.842 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.861 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.862 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.862 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:23.863 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.222 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:24.223 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:24.224 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:24.234 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.236 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:24.490 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:24.491 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:24.491 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:24.492 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:24.505 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.654 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:24.666 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.730 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.731 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.731 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.731 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.787 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:24.788 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.280 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:25.280 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:25.291 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:25.292 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:25.293 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.516 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:25.517 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:25.528 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:25.529 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:25.529 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.657 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.748 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:25.748 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.749 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.749 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.749 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.750 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.877 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.884 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:25.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:25.886 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.002 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.003 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.003 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.003 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.004 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.004 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.051 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:26.052 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.235 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:27.246 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:27.247 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:27.248 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:27.253 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.483 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:27.484 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:27.495 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.495 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:27.499 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:27.648 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.656 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:27.726 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.726 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.726 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:27.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.214 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:28.215 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:28.215 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.216 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:28.217 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:28.440 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:51:28.440 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:28.441 [[32minfo[39m]: successfully found cities
+28/05/2024 17:51:28.441 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.444 [[32minfo[39m]: successfully found clients
+28/05/2024 17:51:28.581 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:28.652 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.652 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.653 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.653 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.654 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.654 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.778 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:51:28.779 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.780 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.780 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.823 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.940 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.940 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.998 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:51:28.999 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:04.704 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:04.754 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:04.756 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:04.756 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:04.766 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:04.988 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:04.988 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:04.989 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:04.989 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:04.991 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:05.132 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.132 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:05.186 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.186 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.187 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.187 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.187 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.187 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.319 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.320 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.320 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.366 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:05.473 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.473 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.474 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.474 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.475 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.475 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.524 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:05.525 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.240 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:07.240 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:07.241 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.241 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:07.255 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:07.364 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:07.487 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:07.490 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.491 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:07.491 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:07.641 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.641 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.641 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.642 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.645 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.646 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:07.777 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.781 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:07.781 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.782 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.782 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.783 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.891 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.891 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.892 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.892 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.892 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.893 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.946 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:07.947 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.229 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:09.240 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:09.240 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.243 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:09.245 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:09.471 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:09.472 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:09.472 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:09.473 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:09.484 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.656 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:09.657 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.657 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.666 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.805 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.805 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.805 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.806 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:09.806 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:09.868 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.207 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.208 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:12.220 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:12.221 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:12.225 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:12.446 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.447 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:12.447 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:12.460 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:12.462 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:12.612 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.612 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.613 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.613 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.614 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.615 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:12.733 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.734 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.734 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.735 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.735 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.774 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:12.884 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.884 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.884 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.933 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:12.933 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.251 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:17.265 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:17.266 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:17.269 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.270 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:17.492 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:17.502 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:17.503 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:17.503 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:17.504 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.647 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.648 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.648 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.648 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.649 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.649 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:17.794 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.810 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:17.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.814 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:17.814 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.277 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.277 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:18.278 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:18.288 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:18.290 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:18.521 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:18.532 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:18.532 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:18.533 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.533 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:18.682 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.682 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.683 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.683 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.684 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:18.685 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.800 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.801 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.847 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:18.970 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.971 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.971 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.972 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.972 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:18.972 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:19.019 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:19.020 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.359 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.360 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:30.372 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:30.372 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:30.377 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:30.608 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:30.609 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.609 [[32minfo[39m]: successfully found clients
+28/05/2024 17:52:30.620 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:52:30.623 [[32minfo[39m]: successfully found cities
+28/05/2024 17:52:30.772 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.776 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:30.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.929 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:52:30.930 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.930 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.931 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.931 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:30.963 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.071 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.071 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.072 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.072 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.072 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.072 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.121 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:52:31.122 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.297 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:16.298 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.298 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:16.299 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:16.311 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:16.553 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:16.565 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:16.565 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.566 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:16.566 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:16.704 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:16.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.706 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.706 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.706 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.823 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:16.823 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.824 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.824 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.824 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.866 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.994 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.994 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:16.996 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:17.065 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:17.066 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.257 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:18.257 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:18.258 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.258 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:18.272 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:18.497 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:18.508 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:18.508 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:18.508 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:18.509 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.632 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:18.680 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.750 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.750 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.750 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.751 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.751 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.751 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.877 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:18.877 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.878 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:18.918 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.032 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.033 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.033 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.033 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.033 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.034 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.084 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:19.085 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.200 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:20.201 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.201 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:20.214 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:20.216 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:20.353 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:20.473 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:20.483 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:20.487 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.488 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:20.554 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:20.626 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.626 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.626 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.627 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.627 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.641 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.765 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:20.765 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.766 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.766 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:20.781 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.254 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.255 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:21.267 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:21.267 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:21.272 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:21.406 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:21.409 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:21.455 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:21.458 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.519 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:21.597 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.597 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.623 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.639 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:21.745 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.745 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:21.807 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:22.016 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.016 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.016 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.017 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.017 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.017 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.066 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:22.066 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.243 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:28.244 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.247 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:28.260 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:28.264 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:28.492 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.492 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:28.493 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:28.493 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:28.494 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:28.614 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.707 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:28.707 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.709 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.834 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.852 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:28.853 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.853 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.853 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.961 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.962 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.962 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.962 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.963 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:28.963 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:29.019 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:29.019 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.236 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:36.236 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:36.247 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:36.247 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:36.248 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.363 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:36.491 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:36.501 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.502 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:36.505 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:36.644 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.645 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.645 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.646 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.646 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.647 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:36.764 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:36.764 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.765 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.765 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.765 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.810 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.922 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.922 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.969 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:36.970 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.186 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:41.187 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:41.187 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:41.202 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:41.285 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.408 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:41.409 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:41.410 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:41.411 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:41.449 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.534 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:41.575 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.657 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.782 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:41.790 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.791 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.791 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.792 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.792 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.886 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.886 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.886 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.946 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:41.946 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.293 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.294 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:51.294 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:51.295 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:51.300 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:51.541 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:51.542 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:51.542 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:51.543 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.547 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:51.665 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:51.691 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.692 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.692 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.692 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.809 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:51.810 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.810 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.811 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.811 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.872 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.997 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.998 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.998 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.998 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.999 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:51.999 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:52.063 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:52.064 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.243 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:53.243 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:53.244 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.244 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:53.260 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:53.473 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.473 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:53.474 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:53.474 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:53.485 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:53.633 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:53.634 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.766 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.767 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.767 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.767 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.768 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:53.781 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.897 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.898 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.898 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.899 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.899 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.899 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.953 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:53.953 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.252 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.253 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:57.253 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:57.254 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:57.259 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:57.436 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:57.437 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:57.441 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.442 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:57.586 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:57.601 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.601 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.602 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.602 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.602 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.736 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.736 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.737 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.737 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:57.737 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.261 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.262 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:58.262 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:58.277 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:58.278 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:58.506 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:58.507 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.507 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:58.518 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:58.519 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:58.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.657 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.658 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.659 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.659 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.793 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.793 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.794 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:58.794 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.251 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:59.261 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:59.261 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:59.262 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.263 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:59.480 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:53:59.480 [[32minfo[39m]: successfully found clients
+28/05/2024 17:53:59.491 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:53:59.491 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.492 [[32minfo[39m]: successfully found cities
+28/05/2024 17:53:59.604 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.604 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.605 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.605 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.605 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.610 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.717 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.718 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.718 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.718 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.826 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.827 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.827 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.827 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.828 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.828 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:53:59.885 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.214 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:01.214 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:01.225 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:01.225 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:01.225 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.227 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:01.462 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:01.463 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:01.463 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:01.463 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:01.474 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.561 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:01.595 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.596 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.596 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.596 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.603 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.706 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.707 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.707 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.707 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.849 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:01.849 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.275 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:06.293 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:06.294 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.294 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:06.295 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:06.296 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:06.545 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:06.545 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:06.546 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:06.546 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:06.549 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:06.560 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.695 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.726 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.726 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.726 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.840 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.840 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.841 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.937 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.938 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.938 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.938 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.938 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:06.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:07.084 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:07.084 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.232 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:12.233 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:12.234 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.234 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:12.235 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:12.250 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:12.430 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:12.431 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:12.431 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.436 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:12.517 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:12.536 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:12.597 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.597 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.599 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.709 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.709 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.710 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.710 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.820 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.820 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.820 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.821 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.821 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.821 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.867 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:12.868 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.341 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:46.342 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.342 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:46.354 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:46.354 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:46.359 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:46.580 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.580 [[32minfo[39m]: successfully found clients
+28/05/2024 17:54:46.591 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:54:46.591 [[32minfo[39m]: successfully found plan
+28/05/2024 17:54:46.593 [[32minfo[39m]: successfully found cities
+28/05/2024 17:54:46.655 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:54:46.724 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.724 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.724 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.725 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.725 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.733 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.856 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.857 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.858 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.858 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.956 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.957 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.957 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.957 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.957 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:46.958 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:47.004 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:54:47.004 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.332 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:27.345 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.346 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:27.346 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:27.347 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:27.352 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:27.598 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:27.608 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:27.609 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:27.609 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.609 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:27.613 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:27.745 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.746 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.747 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.748 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.871 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.872 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.872 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.873 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.965 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.965 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.966 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.966 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.966 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:27.966 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:28.024 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:28.024 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.313 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:37.325 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:37.325 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.329 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:37.329 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:37.331 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:37.585 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.586 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:37.586 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:37.597 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:37.597 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:37.599 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:37.718 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.718 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.719 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.719 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.719 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.720 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.835 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.836 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.836 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.836 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.933 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.934 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.934 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.934 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.935 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.935 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.991 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:37.991 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.252 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:40.253 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:40.265 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.266 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:40.266 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:40.267 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:40.521 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:40.522 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:40.522 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:40.522 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.523 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:40.524 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:40.649 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.662 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.663 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.663 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.663 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.664 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.783 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.784 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.784 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.784 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.892 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.892 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.892 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.893 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.893 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.893 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.949 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:40.950 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.312 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.313 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:48.313 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:48.324 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:48.324 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:48.326 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:48.578 [[32minfo[39m]: successfully found cities
+28/05/2024 17:55:48.579 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.579 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:55:48.579 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:55:48.580 [[32minfo[39m]: successfully found clients
+28/05/2024 17:55:48.592 [[32minfo[39m]: successfully found plan
+28/05/2024 17:55:48.709 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.710 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.710 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.710 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.711 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.714 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.825 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.826 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.826 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.827 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.938 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.939 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.940 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:55:48.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:22.986 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:22.987 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:56:22.987 [[32minfo[39m]: successfully found clients
+28/05/2024 17:56:22.997 [[32minfo[39m]: successfully found cities
+28/05/2024 17:56:22.998 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:56:23.003 [[32minfo[39m]: successfully found plan
+28/05/2024 17:56:23.254 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.255 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:56:23.255 [[32minfo[39m]: successfully found cities
+28/05/2024 17:56:23.255 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:56:23.256 [[32minfo[39m]: successfully found clients
+28/05/2024 17:56:23.271 [[32minfo[39m]: successfully found plan
+28/05/2024 17:56:23.398 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.399 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.399 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.399 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.399 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.457 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.458 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.458 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.508 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.611 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.611 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.612 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.612 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.612 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.613 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.660 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:23.661 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:31.974 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:31.975 [[32minfo[39m]: successfully found cities
+28/05/2024 17:56:31.976 [[32minfo[39m]: successfully found clients
+28/05/2024 17:56:31.986 [[32minfo[39m]: successfully found plan
+28/05/2024 17:56:31.987 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:56:31.992 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:56:32.127 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.241 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:56:32.242 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:56:32.242 [[32minfo[39m]: successfully found clients
+28/05/2024 17:56:32.253 [[32minfo[39m]: successfully found plan
+28/05/2024 17:56:32.259 [[32minfo[39m]: successfully found cities
+28/05/2024 17:56:32.348 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.421 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.422 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.422 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.422 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.422 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.423 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.478 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.479 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.531 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.639 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.639 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.639 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.640 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.640 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.640 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.687 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:32.687 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:33.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:33.936 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:34.804 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:34.910 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:44.807 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:44.908 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:45.794 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:45.914 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:46.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:47.008 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:47.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:56:48.008 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:03.815 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:03.922 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:04.816 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:04.913 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:05.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:05.913 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:06.805 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:06.910 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:23.791 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:23.889 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:24.797 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:24.903 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:33.800 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:33.907 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:37.817 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:57:37.921 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:09.953 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:09.954 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:09.966 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:09.967 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:09.967 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:09.973 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.237 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:10.238 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:10.239 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:10.249 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:10.249 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:10.250 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.367 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.403 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.403 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.403 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.517 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.630 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.630 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.631 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.631 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.631 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.631 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.704 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:10.705 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:12.941 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:12.941 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:12.942 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:12.942 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:12.952 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:12.954 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:13.211 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:13.212 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:13.223 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.223 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:13.223 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:13.224 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:13.337 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.356 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.357 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.357 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.357 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.358 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.465 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.466 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.466 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.466 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.574 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.574 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.574 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.575 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.575 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.575 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.631 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:13.632 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.221 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.222 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:21.233 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:21.233 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:21.234 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:21.235 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:21.507 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.507 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:21.508 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:21.524 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:21.524 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:21.527 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:21.639 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.663 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.664 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.664 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.664 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.665 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.782 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.782 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.783 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.783 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.900 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.902 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.964 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:21.965 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:35.605 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:35.605 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:35.606 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:35.621 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:35.624 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:35.631 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:35.898 [[32minfo[39m]: successfully found plan
+28/05/2024 17:59:35.899 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:35.899 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 17:59:35.900 [[32minfo[39m]: successfully found hubs
+28/05/2024 17:59:35.900 [[32minfo[39m]: successfully found clients
+28/05/2024 17:59:35.912 [[32minfo[39m]: successfully found cities
+28/05/2024 17:59:36.008 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.009 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.009 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.009 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.009 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.067 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.068 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.068 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.068 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.176 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.274 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.275 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.275 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.276 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.276 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.276 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.338 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:36.338 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:52.814 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:52.913 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:53.806 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:53.916 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:56.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 17:59:56.909 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:01.808 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:01.911 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:13.808 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:13.917 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:14.812 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:14.921 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:47.795 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:00:47.904 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:00.976 [[32minfo[39m]: successfully found cities
+28/05/2024 18:01:00.976 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:01:00.977 [[32minfo[39m]: successfully found clients
+28/05/2024 18:01:00.987 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:01:00.988 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:00.989 [[32minfo[39m]: successfully found plan
+28/05/2024 18:01:01.107 [[32minfo[39m]: successfully found cities
+28/05/2024 18:01:01.256 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:01:01.257 [[32minfo[39m]: successfully found plan
+28/05/2024 18:01:01.257 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.257 [[32minfo[39m]: successfully found clients
+28/05/2024 18:01:01.269 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:01:01.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.403 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.507 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.508 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.508 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.508 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.627 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.627 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.629 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.687 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:01.687 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:21.966 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:01:21.967 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:01:21.967 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:21.968 [[32minfo[39m]: successfully found cities
+28/05/2024 18:01:21.968 [[32minfo[39m]: successfully found clients
+28/05/2024 18:01:21.981 [[32minfo[39m]: successfully found plan
+28/05/2024 18:01:22.231 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:01:22.232 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:01:22.232 [[32minfo[39m]: successfully found clients
+28/05/2024 18:01:22.243 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.243 [[32minfo[39m]: successfully found cities
+28/05/2024 18:01:22.244 [[32minfo[39m]: successfully found plan
+28/05/2024 18:01:22.370 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.370 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.370 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.371 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.371 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.372 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.489 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.489 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.597 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.599 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.659 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:01:22.660 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:34.975 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:02:34.975 [[32minfo[39m]: successfully found plan
+28/05/2024 18:02:34.976 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:34.976 [[32minfo[39m]: successfully found clients
+28/05/2024 18:02:34.990 [[32minfo[39m]: successfully found cities
+28/05/2024 18:02:34.994 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:02:35.234 [[32minfo[39m]: successfully found clients
+28/05/2024 18:02:35.245 [[32minfo[39m]: successfully found plan
+28/05/2024 18:02:35.246 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:02:35.246 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:02:35.247 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.247 [[32minfo[39m]: successfully found cities
+28/05/2024 18:02:35.355 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.402 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.403 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.466 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.466 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.467 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.622 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.719 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.719 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.720 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.720 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.720 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.721 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.769 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:02:35.769 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.603 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.604 [[32minfo[39m]: successfully found plan
+28/05/2024 18:03:06.604 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:03:06.609 [[32minfo[39m]: successfully found clients
+28/05/2024 18:03:06.623 [[32minfo[39m]: successfully found cities
+28/05/2024 18:03:06.626 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:03:06.880 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.881 [[32minfo[39m]: successfully found plan
+28/05/2024 18:03:06.881 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:03:06.882 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:03:06.882 [[32minfo[39m]: successfully found clients
+28/05/2024 18:03:06.894 [[32minfo[39m]: successfully found cities
+28/05/2024 18:03:06.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.995 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.996 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.996 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:06.996 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.044 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.068 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.068 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.069 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.157 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.275 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.275 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.275 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.276 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.276 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.276 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.448 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:03:07.448 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:22.974 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:22.975 [[32minfo[39m]: successfully found clients
+28/05/2024 18:07:22.985 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:07:22.986 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:07:22.987 [[32minfo[39m]: successfully found cities
+28/05/2024 18:07:22.989 [[32minfo[39m]: successfully found plan
+28/05/2024 18:07:23.255 [[32minfo[39m]: successfully found clients
+28/05/2024 18:07:23.266 [[32minfo[39m]: successfully found cities
+28/05/2024 18:07:23.266 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.266 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:07:23.267 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:07:23.268 [[32minfo[39m]: successfully found plan
+28/05/2024 18:07:23.388 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.487 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.488 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.489 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.601 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.602 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.602 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.602 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.710 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.711 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.711 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.711 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.711 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.712 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.757 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:23.758 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:33.965 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:33.966 [[32minfo[39m]: successfully found clients
+28/05/2024 18:07:33.979 [[32minfo[39m]: successfully found plan
+28/05/2024 18:07:33.979 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:07:33.984 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:07:33.989 [[32minfo[39m]: successfully found cities
+28/05/2024 18:07:34.237 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.238 [[32minfo[39m]: successfully found clients
+28/05/2024 18:07:34.251 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:07:34.251 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:07:34.252 [[32minfo[39m]: successfully found cities
+28/05/2024 18:07:34.253 [[32minfo[39m]: successfully found plan
+28/05/2024 18:07:34.372 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.400 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.400 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.400 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.514 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.515 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.516 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.516 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.625 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.625 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.626 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.626 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.626 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.627 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.675 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:34.676 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:48.969 [[32minfo[39m]: successfully found cities
+28/05/2024 18:07:48.969 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:07:48.970 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:07:48.973 [[32minfo[39m]: successfully found plan
+28/05/2024 18:07:48.974 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:48.976 [[32minfo[39m]: successfully found clients
+28/05/2024 18:07:49.236 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:07:49.237 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:07:49.237 [[32minfo[39m]: successfully found cities
+28/05/2024 18:07:49.237 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.238 [[32minfo[39m]: successfully found plan
+28/05/2024 18:07:49.242 [[32minfo[39m]: successfully found clients
+28/05/2024 18:07:49.369 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.369 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.370 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.370 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.370 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.372 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.492 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.544 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.544 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.545 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.634 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.682 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:07:49.683 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:32.975 [[32minfo[39m]: successfully found clients
+28/05/2024 18:26:32.988 [[32minfo[39m]: successfully found cities
+28/05/2024 18:26:32.989 [[32minfo[39m]: successfully found plan
+28/05/2024 18:26:32.989 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:32.995 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:26:33.076 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:26:33.227 [[32minfo[39m]: successfully found cities
+28/05/2024 18:26:33.228 [[32minfo[39m]: successfully found clients
+28/05/2024 18:26:33.239 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.240 [[32minfo[39m]: successfully found plan
+28/05/2024 18:26:33.265 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:26:33.279 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:26:33.383 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.399 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.400 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.400 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.401 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.506 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.506 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.507 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.511 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.615 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.615 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.616 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.616 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.616 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.617 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.664 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:26:33.664 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:21.816 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:21.817 [[32minfo[39m]: successfully found clients
+28/05/2024 18:27:21.830 [[32minfo[39m]: successfully found cities
+28/05/2024 18:27:21.830 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:27:21.831 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:27:21.836 [[32minfo[39m]: successfully found plan
+28/05/2024 18:27:22.069 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:27:22.069 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:27:22.070 [[32minfo[39m]: successfully found plan
+28/05/2024 18:27:22.070 [[32minfo[39m]: successfully found clients
+28/05/2024 18:27:22.082 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.173 [[32minfo[39m]: successfully found cities
+28/05/2024 18:27:22.209 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.226 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.227 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.227 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.228 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.228 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.341 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.342 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.342 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.343 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.451 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.452 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.452 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.452 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.453 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.453 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.516 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:27:22.517 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.189 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:28:23.190 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.190 [[32minfo[39m]: successfully found plan
+28/05/2024 18:28:23.191 [[32minfo[39m]: successfully found clients
+28/05/2024 18:28:23.205 [[32minfo[39m]: successfully found cities
+28/05/2024 18:28:23.207 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:28:23.459 [[32minfo[39m]: successfully found plan
+28/05/2024 18:28:23.459 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:28:23.460 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.460 [[32minfo[39m]: successfully found clients
+28/05/2024 18:28:23.471 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:28:23.472 [[32minfo[39m]: successfully found cities
+28/05/2024 18:28:23.598 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.599 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.599 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.599 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.599 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.601 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.714 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.714 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.715 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.715 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.812 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.812 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.813 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.860 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:23.860 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.293 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.294 [[32minfo[39m]: successfully found plan
+28/05/2024 18:28:32.295 [[32minfo[39m]: successfully found clients
+28/05/2024 18:28:32.305 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:28:32.306 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:28:32.313 [[32minfo[39m]: successfully found cities
+28/05/2024 18:28:32.556 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.557 [[32minfo[39m]: successfully found clients
+28/05/2024 18:28:32.568 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:28:32.568 [[32minfo[39m]: successfully found plan
+28/05/2024 18:28:32.569 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:28:32.570 [[32minfo[39m]: successfully found cities
+28/05/2024 18:28:32.690 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.712 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.712 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.712 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.713 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.713 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.824 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.825 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.825 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.825 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.923 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.924 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.924 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.924 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.970 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:28:32.971 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.931 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.932 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.932 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.932 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.933 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.933 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.980 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:27.981 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.374 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.375 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.375 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.375 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.376 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.376 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:29.419 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.802 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.803 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.877 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.877 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.878 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.878 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.878 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.879 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.940 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.940 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.941 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.941 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.941 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:32.942 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:33.017 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:33.017 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:33.018 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:33.018 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:33.018 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.869 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.869 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.869 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.870 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.870 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.870 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:35.904 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.707 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.708 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.709 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.769 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:29:36.770 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:31.711 [[32minfo[39m]: successfully found clients
+28/05/2024 18:30:31.726 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:30:31.726 [[32minfo[39m]: successfully found cities
+28/05/2024 18:30:31.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:31.727 [[32minfo[39m]: successfully found plan
+28/05/2024 18:30:31.728 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:30:32.015 [[32minfo[39m]: successfully found pop clientes
+28/05/2024 18:30:32.016 [[32minfo[39m]: successfully found clients
+28/05/2024 18:30:32.026 [[32minfo[39m]: successfully found plan
+28/05/2024 18:30:32.026 [[32minfo[39m]: successfully found hubs
+28/05/2024 18:30:32.027 [[32minfo[39m]: successfully found cities
+28/05/2024 18:30:32.027 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.155 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.155 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.156 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.156 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.156 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.157 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.264 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.377 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.378 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.378 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.378 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.379 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.379 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.444 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.444 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.445 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.445 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:32.445 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.041 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.042 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.042 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.042 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.042 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.043 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.088 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:33.089 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.195 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.195 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.196 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.196 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.196 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.196 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:34.236 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.516 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.516 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.517 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.517 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.517 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.517 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.592 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.592 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.593 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.593 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.593 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.593 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.659 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.659 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.659 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.660 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.660 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.660 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.727 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.728 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.728 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.728 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:30:35.729 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.497 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.498 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.498 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.549 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:34.550 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.067 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.068 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.069 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.069 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.069 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.070 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:35.107 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.629 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.629 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.629 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.629 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.689 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:36.690 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.572 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.572 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.572 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.573 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.573 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.573 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.628 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.687 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:47.801 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.845 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.846 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.846 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.846 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.847 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.847 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.901 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:52.902 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.722 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.723 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.723 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.723 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.724 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.724 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:53.761 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.498 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.499 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.500 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.569 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.569 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.569 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.570 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.570 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.570 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.635 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.636 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.637 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.637 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.702 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.702 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.703 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.703 [[32minfo[39m]: internet status found successfully
+28/05/2024 18:31:55.703 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.423 [[32minfo[39m]: successfully found clients
+29/05/2024 06:27:36.439 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.440 [[32minfo[39m]: successfully found cities
+29/05/2024 06:27:36.441 [[32minfo[39m]: successfully found plan
+29/05/2024 06:27:36.441 [[32minfo[39m]: successfully found hubs
+29/05/2024 06:27:36.448 [[32minfo[39m]: successfully found pop clientes
+29/05/2024 06:27:36.701 [[32minfo[39m]: successfully found clients
+29/05/2024 06:27:36.715 [[32minfo[39m]: successfully found plan
+29/05/2024 06:27:36.716 [[32minfo[39m]: successfully found hubs
+29/05/2024 06:27:36.717 [[32minfo[39m]: successfully found cities
+29/05/2024 06:27:36.718 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.718 [[32minfo[39m]: successfully found pop clientes
+29/05/2024 06:27:36.841 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.897 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.897 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.898 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.898 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.899 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.899 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.953 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:36.954 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.022 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.124 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.125 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.125 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.126 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.126 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.126 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.173 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:37.173 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.347 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.348 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.348 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.348 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.349 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.349 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.403 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:43.404 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.214 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.215 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.215 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.216 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.216 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.216 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:44.254 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.248 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.249 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.249 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.249 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.250 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.250 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.322 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.322 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.322 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.323 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.323 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.323 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.385 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.386 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.386 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.386 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.387 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.387 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.469 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.469 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.470 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.470 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:27:45.470 [[32minfo[39m]: internet status found successfully
+29/05/2024 06:33:29.537 [[32minfo[39m]: successfully found city
+29/05/2024 06:36:53.316 [[32minfo[39m]: successfully found city
+29/05/2024 06:37:18.441 [[32minfo[39m]: successfully found city
+29/05/2024 06:37:28.244 [[31merror[39m]: path: src/models/mostCommonCity.js message: mostCommonPlan is not defined
+29/05/2024 06:37:52.568 [[32minfo[39m]: successfully found city

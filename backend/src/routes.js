@@ -9,6 +9,7 @@ const internetStatusByHubController = require("./controllers/client/internetStat
 const internetStatusByPopClienteController = require("./controllers/client/internetStatusByPopCliente")
 const searchAllPopClientesController = require("./controllers/client/searchAllPopClientes")
 const mostCommonPlanController = require("./controllers/client/mostCommonPlan")
+const mostCommonCityController = require("./controllers/client/mostCommonCity")
 
 const routes = Router()
 
@@ -22,6 +23,7 @@ routes.get("/internetStatusByHub/:hub", internetStatusByHubController.handle)
 routes.get("/internetStatusByPopCliente/:popCliente", internetStatusByPopClienteController.handle)
 routes.get("/searchAllPopClientes", searchAllPopClientesController.handle)
 routes.get("/mostCommonPlan", mostCommonPlanController.handle)
+routes.get("/mostCommonCity", mostCommonCityController.handle)
 
 
 module.exports = routes
