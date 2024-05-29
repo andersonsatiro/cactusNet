@@ -51,6 +51,12 @@ GET http://localhost:3333/mostCommonCity
 # @name average-time-connected
 GET http://localhost:3333/averageTimeConnected
 
+###
+
+# @name total-revenue-per-month
+GET http://localhost:3333/totalRevenuePerMonth
+
+
 
 
 

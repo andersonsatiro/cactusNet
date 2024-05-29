@@ -11,6 +11,7 @@ const searchAllPopClientesController = require("./controllers/client/searchAllPo
 const mostCommonPlanController = require("./controllers/client/mostCommonPlan")
 const mostCommonCityController = require("./controllers/client/mostCommonCity")
 const averageTimeConnectedController = require("./controllers/client/averageTimeConnected")
+const totalRevenuePerMonthController = require("./controllers/client/totalRevenuePerMonth")
 
 const routes = Router()
 
@@ -26,6 +27,7 @@ routes.get("/searchAllPopClientes", searchAllPopClientesController.handle)
 routes.get("/mostCommonPlan", mostCommonPlanController.handle)
 routes.get("/mostCommonCity", mostCommonCityController.handle)
 routes.get("/averageTimeConnected", averageTimeConnectedController.handle)
+routes.get("/totalRevenuePerMonth", totalRevenuePerMonthController.handle)
 
 
 module.exports = routes
